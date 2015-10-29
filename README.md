@@ -1,10 +1,6 @@
 #Começe a programar
 
-Conheço várias pessoas que estão querendo aprender a programar, por isso crie um blog para compatilhar algumas experiência
-
-http://desprograme.com.br/
-
-Dicas: Esses são sites incrível, para quem está começando a programar:
+Quero compatilhar alguns sites execelênte para aprender a  programar.
 
 https://www.codecademy.com/pt-BR/learn
 
