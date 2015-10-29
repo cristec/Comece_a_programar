@@ -1,6 +1,6 @@
 #Começe a programar
 
-Quero compatilhar alguns sites execelênte para aprender a  programar.
+Quero compatilhar alguns sites execelêntes, para aprender a  programar.
 
 https://www.codecademy.com/pt-BR/learn
 
